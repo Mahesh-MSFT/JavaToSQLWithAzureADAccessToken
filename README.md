@@ -14,4 +14,4 @@ Follow these steps to get application working
 5. In Java application, define system environment variables for Database Server Name and Database Name. This is not to store those values in code. You can explore other options such as MSI as explained in this [repo](https://github.com/Mahesh-MSFT/JavaSQLWithAKVandMSI)
 
 ## More information
-[Connecting using Azure Active Directory Authentication](https://docs.microsoft.com/en-us/sql/connect/jdbc/connecting-using-azure-active-directory-authentication?view=sql-server-2017#connecting-using-access-token)
+* [Connecting using Azure Active Directory Authentication](https://docs.microsoft.com/en-us/sql/connect/jdbc/connecting-using-azure-active-directory-authentication?view=sql-server-2017#connecting-using-access-token)
