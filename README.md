@@ -11,4 +11,4 @@ Follow these steps to get application working
    
    `CREATE USER [your-app-name-as-registered-in-AD] FROM EXTERNAL PROVIDER`
 4. Give newly added user necessary permissions (I gave just `SELECT`) on the database
-5. In Java application, define system environment variables for Database Server Name and Database Name. This is not to store those values in code. You cam explore other option such as MSI as explained in this [repo](https://github.com/Mahesh-MSFT/JavaSQLWithAKVandMSI)
+5. In Java application, define system environment variables for Database Server Name and Database Name. This is not to store those values in code. You can explore other option such as MSI as explained in this [repo](https://github.com/Mahesh-MSFT/JavaSQLWithAKVandMSI)
